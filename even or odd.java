@@ -1,6 +1,6 @@
 public class Main {
 public static void main(String[] args) {
-int number = 12;
+int number = 74;
 if(isEven(number)) {
 System.out.println("Even");
 }
