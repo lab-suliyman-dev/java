@@ -1,7 +1,7 @@
 public class Main {
 public static void main(String[] args) {
-int result = maximum(20,35);
-System.out.println("Maximum = " + result);
+int result = maximum(45,30);
+System.out.println("Max = " + result);
 }
 static int maximum(int a,int b) {
 if(a>b) {
